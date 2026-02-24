@@ -2,13 +2,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-/**
- * Use Case 6: Queue Stack Fairness Check
- * Description: Demonstrates palindrome validation by comparing
- * FIFO (Queue) and LIFO (Stack) behaviors.
- * @author Developer
- * @version 6.0
- */
 public class UseCase6PalindromeCheckerApp {
 
     /**
