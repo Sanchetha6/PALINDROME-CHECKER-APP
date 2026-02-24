@@ -10,11 +10,6 @@ import java.util.Stack;
  * @version 6.0
  */
 public class UseCase6PalindromeCheckerApp {
-
-    /**
-     * Application entry point for UC6.
-     * @param args Command-line arguments
-     */
     public static void main(String[] args) {
         // Step 1: Define the input string to validate
         String input = "civic";
